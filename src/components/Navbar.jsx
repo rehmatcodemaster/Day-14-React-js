@@ -20,6 +20,9 @@ const Navbar = () => {
         <a href="/contact" className="hover:text-indigo-600 transition duration-300">
           Contact
         </a>
+        <a href="/courses" className="hover:text-indigo-600 transition duration-300">
+          Courses
+        </a>
       </div>
 
       {/* Button */}
